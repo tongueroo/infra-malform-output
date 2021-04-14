@@ -1,4 +1,4 @@
-# Terraspace Project
+# Terraspace Malform Output Debugging
 
 Example project to debug: https://community.boltops.com/t/troubleshooting-error-stack-module-not-found/671
 
