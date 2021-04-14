@@ -4,7 +4,7 @@ Example project to debug: https://community.boltops.com/t/troubleshooting-error-
 
 There's an intentional bug with the `output` helper in this code to see what happens when there's some malform output syntax in the code.
 
-The code has an error:
+The code has an intentional error:
 
 app/stacks/a1/tfvars/base.tfvars
 
