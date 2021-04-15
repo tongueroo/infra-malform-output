@@ -1,1 +1,1 @@
-length1 = <%= output("makebelievestack.length") %>
+length1 = <%= output("b1.makebelieveoutput") %>
