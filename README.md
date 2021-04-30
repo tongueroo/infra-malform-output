@@ -4,7 +4,7 @@ Example project to debug: https://community.boltops.com/t/troubleshooting-error-
 
 There's an intentional bug with the `output` helper in this code to see what happens when there's an invalid stack used in the output helper.
 
-The code has an intentional error:
+The code has an intentional error. It should be `<%=` not `<=`
 
 app/stacks/a1/tfvars/base.tfvars
 
